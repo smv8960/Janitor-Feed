@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1038109292158",
+    "project_id": "janitor-feed-2833e",
+    "storage_bucket": "janitor-feed-2833e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038109292158:android:8a9b0de4ce165f99a0ca2f",
+        "android_client_info": {
+          "package_name": "com.example.janitor_feed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038109292158-9m147thamiq6ev0vs7e07036drfgoi9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.janitor_feed",
+            "certificate_hash": "f506686857d67122e9aa37963da50fb467fa8cd4"
+          }
+        },
+        {
+          "client_id": "1038109292158-q9ocp3gfudgaaq0usi7vs8g6hd8l8n3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtj6LctyrytwTBdob_9Ksveyuq69ii-xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038109292158-q9ocp3gfudgaaq0usi7vs8g6hd8l8n3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

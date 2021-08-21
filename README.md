@@ -2,7 +2,8 @@
 It's basically a QR based digitized alternative to paper-based review system for Janitors of my College VIT-BHOPAL
 
 <img src="https://github.com/smv8960/Janitor-Feed/blob/main/janitor_feed/assets/images/janit.png">
-# How to Run Code
+
+### How to Run Code
 Clone or download the repo and place it anywhere in your computer. Open the folder in Android Studio or VS Code. Make sure that you have flutter SDK already installed. Type the command in terminal:
 
 "flutter pub get"
@@ -26,4 +27,5 @@ After the command is run successfully you can run the app on real device or on e
 
 ### 3. After filling the form user can press the "submit" button in order to submit the review form
 <img src="https://github.com/smv8960/Janitor-Feed/blob/main/janitor_feed/assets/images/5.jpg" width=190>
-And after the succesful submission, review is uploaded to googlesheets
+
+### 4.And after the succesful submission, review is uploaded to googlesheets

@@ -26,4 +26,4 @@ After the command is run successfully you can run the app on real device or on e
 
 ### 3. After filling the form user can press the "submit" button in order to submit the review form
 <img src="https://github.com/smv8960/Janitor-Feed/blob/main/janitor_feed/assets/images/5.jpg" width=190>
-### 4. And after the succesful submission, review is uploaded to googlesheets
+And after the succesful submission, review is uploaded to googlesheets

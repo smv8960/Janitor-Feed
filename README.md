@@ -29,3 +29,5 @@ After the command is run successfully you can run the app on real device or on e
 <img src="https://github.com/smv8960/Janitor-Feed/blob/main/janitor_feed/assets/images/5.jpg" width=190>
 
 ### 4.And after the succesful submission, review is uploaded to googlesheets
+
+<img src="https://github.com/smv8960/Janitor-Feed/blob/main/janitor_feed/assets/images/Janitor feed gsheet.png">
